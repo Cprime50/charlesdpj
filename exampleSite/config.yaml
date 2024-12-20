@@ -130,7 +130,7 @@ params:
     intro: "Hi, my name is"
     title: "Charles Dpj"
     subtitle: "I build things for the web"
-    content: "Software Developer with 2 years of experience building, deploying and optimising web-based services for a startup. Skilled in web development and creating scalable, user-friendly applications that deliver real value. Dedicated to continuous learning and contributing to impactful projects, I am ready to go above and beyond to drive success and exceed expectations."
+    content: "I am a Software Developer skilled in web development and creating scalable, user-friendly applications that deliver real value. I have a background in computer science, and I am dedicated to continuous learning and contributing to impactful projects. I am ready to go above and beyond to drive success and exceed expectations."
     image: /images/cool.png
     bottomImage:
       enable: true
@@ -160,9 +160,9 @@ params:
     title: "About Me"
     # image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [Keploy](https://Keploy.io).
+     I am a software developer passionate about web, cloud , and open-source technologies. I have a strong interest in exploring the intersection of technology and art.
 
-      I am currently working on a project that will help developers write test very easily.
+      I am currently working on a project aimed at providing users with free AI voice software (text-to-speech) capabilities that generates natural, expressive, and customizable voices using freely available models..
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -181,25 +181,25 @@ params:
   experience:
     enable: true
     # title: "Custom Name"
-    items:
-    - job: "Software Developer"
-      company: "Keploy"
-      companyUrl: "https://keploy.io"
-      date: "2023 - Present"
-      featuredLink:
-        enable: false
-      content: |
-        I am currently working as a software developer at [Keploy](https://keploy.io), contributing to the development of their API testing platform. My work focuses on backend services and cloud deployments to enhance platform performance and client satisfaction.
+    # items:
+    # - job: "Software Developer"
+    #   company: "Keploy"
+    #   companyUrl: "https://keploy.io"
+    #   date: "2023 - Present"
+    #   featuredLink:
+    #     enable: false
+    #   content: |
+    #     I am currently working as a software developer at [Keploy](https://keploy.io), contributing to the development of their API testing platform. My work focuses on backend services and cloud deployments to enhance platform performance and client satisfaction.
     
-        - Worked closely with senior developers, product managers, and QA engineers to ensure software quality met clients' needs, leading to a 30% increase in client satisfaction scores as measured through feedback surveys.
-        - Designed and implemented features to support automated test generation and data management, enhancing platform functionality and increasing developer adoption.
-        - Managed backend services in cloud environments, using monitoring tools to identify and resolve API-related issues, which improved system uptime.
-        - Contributed to improving internal and external documentation, facilitating better understanding and usage of the platform by developers and leading to increased platform adoption.
+    #     - Worked closely with senior developers, product managers, and QA engineers to ensure software quality met clients' needs, leading to a 30% increase in client satisfaction scores as measured through feedback surveys.
+    #     - Designed and implemented features to support automated test generation and data management, enhancing platform functionality and increasing developer adoption.
+    #     - Managed backend services in cloud environments, using monitoring tools to identify and resolve API-related issues, which improved system uptime.
+    #     - Contributed to improving internal and external documentation, facilitating better understanding and usage of the platform by developers and leading to increased platform adoption.
     
     - job: "Software Developer Intern"
       company: "Thelsimpact Consulting"
       companyUrl: "https://www.thelsimpactconsulting.com/" # Replace with the actual company URL if available
-      date: "May 2022 - November 2022"
+      date: "May 2023 - November 2024"
       featuredLink:
         enable: false
       content: |
@@ -360,3 +360,4 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+  
