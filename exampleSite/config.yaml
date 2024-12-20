@@ -130,7 +130,7 @@ params:
     intro: "Hi, my name is"
     title: "Charles Dpj"
     subtitle: "I build things for the web"
-    content: "I am a Software Developer skilled in web development and creating scalable, user-friendly applications that deliver real value. I have a background in computer science, and I am dedicated to continuous learning and contributing to impactful projects. I am ready to go above and beyond to drive success and exceed expectations."
+    content: "Software Developer skilled in web development and creating scalable, user-friendly applications that deliver real value. I have a background in computer science, and I am dedicated to continuous learning and contributing to impactful projects. I am ready to go above and beyond to drive success and exceed expectations."
     image: /images/cool.png
     bottomImage:
       enable: true
@@ -180,8 +180,8 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
-    # items:
+    title: "Custom Name"
+    items:
     # - job: "Software Developer"
     #   company: "Keploy"
     #   companyUrl: "https://keploy.io"
